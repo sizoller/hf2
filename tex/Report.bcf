@@ -1975,8 +1975,16 @@
     <bcf:datasource type="file" datatype="bibtex">literature/bibliography.bib</bcf:datasource>
   </bcf:bibdata>
   <bcf:section number="0">
-    <bcf:citekey order="1">range</bcf:citekey>
-    <bcf:citekey order="2">frauenhofer</bcf:citekey>
+    <bcf:citekey order="1">script</bcf:citekey>
+    <bcf:citekey order="2">book</bcf:citekey>
+    <bcf:citekey order="3">book</bcf:citekey>
+    <bcf:citekey order="4">book</bcf:citekey>
+    <bcf:citekey order="5">script</bcf:citekey>
+    <bcf:citekey order="6">script</bcf:citekey>
+    <bcf:citekey order="7">script</bcf:citekey>
+    <bcf:citekey order="8">script</bcf:citekey>
+    <bcf:citekey order="9">ranges</bcf:citekey>
+    <bcf:citekey order="10">frauenhofer</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="none">

@@ -19,6 +19,27 @@
 
 \refsection{0}
   \datalist[entry]{none/global//global/global}
+    \entry{script}{misc}{}
+      \name{author}{1}{}{%
+        {{hash=e9a983feb403fdfda0f0dcefef94c4d3}{%
+           family={Hufschmid},
+           familyi={H\bibinitperiod},
+           given={Markus},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{e9a983feb403fdfda0f0dcefef94c4d3}
+      \strng{fullhash}{e9a983feb403fdfda0f0dcefef94c4d3}
+      \strng{bibnamehash}{e9a983feb403fdfda0f0dcefef94c4d3}
+      \strng{authorbibnamehash}{e9a983feb403fdfda0f0dcefef94c4d3}
+      \strng{authornamehash}{e9a983feb403fdfda0f0dcefef94c4d3}
+      \strng{authorfullhash}{e9a983feb403fdfda0f0dcefef94c4d3}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Antennen}
+      \field{year}{2018}
+    \endentry
     \entry{book}{book}{}
       \name{author}{1}{}{%
         {{hash=ad04d9ec79375087d511e86080bd2a95}{%
@@ -36,12 +57,28 @@
       \strng{authorbibnamehash}{ad04d9ec79375087d511e86080bd2a95}
       \strng{authornamehash}{ad04d9ec79375087d511e86080bd2a95}
       \strng{authorfullhash}{ad04d9ec79375087d511e86080bd2a95}
-      \field{sortinit}{1}
-      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{sortinit}{2}
+      \field{sortinithash}{cbff857e587bcb4635511624d773949e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
       \field{title}{Antennen und Strahlungsfelder}
       \field{year}{2011}
+    \endentry
+    \entry{ranges}{misc}{}
+      \field{sortinit}{9}
+      \field{sortinithash}{1dd72ab054147731c9d824b49aba0534}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{http://www.antenna-theory.com/measurements/antenna.php}
+      \field{title}{Antenna Theory, Antenna Measurements}
+      \field{year}{2011}
+    \endentry
+    \entry{frauenhofer}{misc}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{2174f786c6195e7fe2ee1c229b416e29}
+      \field{labeltitlesource}{title}
+      \field{howpublished}{http://www.antenna-theory.com/basics/fieldRegions.php}
+      \field{title}{Antenna Theory, Field Regions}
+      \field{year}{2015}
     \endentry
   \enddatalist
 \endrefsection

@@ -7,8 +7,6 @@
 \contentsline {section}{\numberline {2}Theorie}{2}{section.2}
 \contentsline {subsection}{\numberline {2.1}Yagi-Uda-Antenne}{2}{subsection.2.1}
 \contentsline {subsection}{\numberline {2.2}Strahlungsdiagramm}{3}{subsection.2.2}
-\contentsline {subsection}{\numberline {2.3}Impedanzanpassung ev. Flusspunktimpedanz}{3}{subsection.2.3}
-\contentsline {subsection}{\numberline {2.4}Mantelwellenunterdr\IeC {\"u}ckung}{3}{subsection.2.4}
 \contentsline {section}{\numberline {3}Berechnung}{4}{section.3}
 \contentsline {section}{\numberline {4}Simulation}{6}{section.4}
 \contentsline {subsection}{\numberline {4.1}Aufbau der Antenne}{6}{subsection.4.1}

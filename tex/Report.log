@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.9.28)  15 JUL 2019 15:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018/W32TeX) (preloaded format=pdflatex 2018.9.28)  16 JUL 2019 10:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -2160,14 +2160,14 @@ LaTeX Font Info:    Try loading font information for OT1+lmtt on input line 18.
 (c:/texlive/2018/texmf-dist/tex/latex/lm/ot1lmtt.fd
 File: ot1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 )
-<fhnwlogo.pdf, id=79, 183.81773pt x 28.4543pt>
+<fhnwlogo.pdf, id=71, 183.81773pt x 28.4543pt>
 File: fhnwlogo.pdf Graphic file (type pdf)
 <use fhnwlogo.pdf>
 Package pdftex.def Info: fhnwlogo.pdf  used on input line 23.
 (pdftex.def)             Requested size: 220.57736pt x 34.1433pt.
 LaTeX Font Info:    External font `lmex10' loaded for size
 (Font)              <12> on input line 23.
-<./graphics/yagi_eigenbau.jpg, id=80, 1546.77875pt x 4013.99625pt>
+<./graphics/yagi_eigenbau.jpg, id=72, 1546.77875pt x 4013.99625pt>
 File: ./graphics/yagi_eigenbau.jpg Graphic file (type jpg)
 <use ./graphics/yagi_eigenbau.jpg>
 Package pdftex.def Info: ./graphics/yagi_eigenbau.jpg  used on input line 28.
@@ -2207,20 +2207,20 @@ l.59 \include{sections/Einleitung}
 \openout2 = `sections/Theorie.aux'.
 
  (./sections/Theorie.tex
-<./graphics/yagi_antenne.png, id=132, 424.08438pt x 227.85126pt>
+<./graphics/yagi_antenne.png, id=127, 424.08438pt x 227.85126pt>
 File: ./graphics/yagi_antenne.png Graphic file (type png)
 <use ./graphics/yagi_antenne.png>
-Package pdftex.def Info: ./graphics/yagi_antenne.png  used on input line 12.
+Package pdftex.def Info: ./graphics/yagi_antenne.png  used on input line 13.
 (pdftex.def)             Requested size: 364.19664pt x 195.68402pt.
  [2
 
 
  <./graphics/yagi_antenne.PNG>]
-<./graphics/yagi_richtdiagram.png, id=146, 533.49312pt x 362.35374pt>
+<./graphics/yagi_richtdiagram.png, id=144, 533.49312pt x 362.35374pt>
 File: ./graphics/yagi_richtdiagram.png Graphic file (type png)
 <use ./graphics/yagi_richtdiagram.png>
-Package pdftex.def Info: ./graphics/yagi_richtdiagram.png  used on input line 2
-9.
+Package pdftex.def Info: ./graphics/yagi_richtdiagram.png  used on input line 3
+4.
 (pdftex.def)             Requested size: 364.19664pt x 247.37593pt.
 ) [3 <./graphics/yagi_richtdiagram.PNG>]
 \openout2 = `sections/Berechnung.aux'.
@@ -2245,7 +2245,7 @@ File: t1lmtt.fd 2009/10/30 v1.6 Font defs for Latin Modern
 
 
 (./sections/Simulation.tex
-<./graphics/Yagi.png, id=180, 994.46532pt x 580.41844pt>
+<./graphics/Yagi.png, id=182, 994.46532pt x 580.41844pt>
 File: ./graphics/Yagi.png Graphic file (type png)
 <use ./graphics/Yagi.png>
 Package pdftex.def Info: ./graphics/Yagi.png  used on input line 11.
@@ -2258,46 +2258,44 @@ File: ts1lmr.fd 2009/10/30 v1.6 Font defs for Latin Modern
 
 
  <./graphics/Yagi.png>]
-<./graphics/Yagi_Fernfeld.png, id=192, 112.86165pt x 60.28523pt>
+<./graphics/Yagi_Fernfeld.png, id=193, 112.86165pt x 60.28523pt>
 File: ./graphics/Yagi_Fernfeld.png Graphic file (type png)
 <use ./graphics/Yagi_Fernfeld.png>
 Package pdftex.def Info: ./graphics/Yagi_Fernfeld.png  used on input line 24.
 (pdftex.def)             Requested size: 455.24408pt x 243.20728pt.
-<./graphics/Yagi_Fernfeld_2dir.png, id=194, 106.9596pt x 57.3342pt>
+<./graphics/Yagi_Fernfeld_2dir.png, id=195, 106.9596pt x 57.3342pt>
 File: ./graphics/Yagi_Fernfeld_2dir.png Graphic file (type png)
 <use ./graphics/Yagi_Fernfeld_2dir.png>
 Package pdftex.def Info: ./graphics/Yagi_Fernfeld_2dir.png  used on input line 
 33.
 (pdftex.def)             Requested size: 455.24408pt x 244.07649pt.
  [7 <./graphics/Yagi_Fernfeld.png> <./graphics/Yagi_Fernfeld_2dir.png>]
-<./graphics/result.png, id=203, 677.53125pt x 301.125pt>
+<./graphics/result.png, id=204, 677.53125pt x 301.125pt>
 File: ./graphics/result.png Graphic file (type png)
 <use ./graphics/result.png>
 Package pdftex.def Info: ./graphics/result.png  used on input line 44.
 (pdftex.def)             Requested size: 455.24408pt x 202.33623pt.
-
-Overfull \hbox (13.18927pt too wide) in paragraph at lines 49--50
-\T1/lmr/m/n/10.95 wur-de die-se für [][] be-rech-net, wo-bei bei der Si-mu-la-t
-i-on ei-ne Grenz-fre-quenz von [][]|
- []
-
-<./graphics/dDn.png, id=205, 677.53125pt x 301.125pt>
+<./graphics/dDn.png, id=206, 677.53125pt x 301.125pt>
 File: ./graphics/dDn.png Graphic file (type png)
 <use ./graphics/dDn.png>
 Package pdftex.def Info: ./graphics/dDn.png  used on input line 53.
 (pdftex.def)             Requested size: 455.24408pt x 202.33623pt.
-[8 <./graphics/result.png> <./graphics/dDn.png>]
-<./graphics/dR.png, id=215, 677.53125pt x 301.125pt>
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <10> on input line 54.
+LaTeX Font Info:    External font `lmex10' loaded for size
+(Font)              <7> on input line 54.
+ [8 <./graphics/result.png> <./graphics/dDn.png>]
+<./graphics/dR.png, id=217, 677.53125pt x 301.125pt>
 File: ./graphics/dR.png Graphic file (type png)
 <use ./graphics/dR.png>
 Package pdftex.def Info: ./graphics/dR.png  used on input line 62.
 (pdftex.def)             Requested size: 455.24408pt x 202.33623pt.
-<./graphics/lR.png, id=218, 677.53125pt x 301.125pt>
+<./graphics/lR.png, id=220, 677.53125pt x 301.125pt>
 File: ./graphics/lR.png Graphic file (type png)
 <use ./graphics/lR.png>
 Package pdftex.def Info: ./graphics/lR.png  used on input line 71.
 (pdftex.def)             Requested size: 455.24408pt x 202.33623pt.
-<./graphics/lDn.png, id=221, 677.53125pt x 301.125pt>
+<./graphics/lDn.png, id=223, 677.53125pt x 301.125pt>
 File: ./graphics/lDn.png Graphic file (type png)
 <use ./graphics/lDn.png>
 Package pdftex.def Info: ./graphics/lDn.png  used on input line 80.
@@ -2307,12 +2305,12 @@ Package pdftex.def Info: ./graphics/lDn.png  used on input line 80.
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
 [9 <./graphics/dR.png> <./graphics/lR.png>]
-<./graphics/lS.png, id=231, 677.53125pt x 301.125pt>
+<./graphics/lS.png, id=233, 677.53125pt x 301.125pt>
 File: ./graphics/lS.png Graphic file (type png)
 <use ./graphics/lS.png>
 Package pdftex.def Info: ./graphics/lS.png  used on input line 89.
 (pdftex.def)             Requested size: 455.24408pt x 202.33623pt.
-<./graphics/lS_dDn.png, id=233, 677.53125pt x 301.125pt>
+<./graphics/lS_dDn.png, id=235, 677.53125pt x 301.125pt>
 File: ./graphics/lS_dDn.png Graphic file (type png)
 <use ./graphics/lS_dDn.png>
 Package pdftex.def Info: ./graphics/lS_dDn.png  used on input line 98.
@@ -2321,11 +2319,11 @@ Package pdftex.def Info: ./graphics/lS_dDn.png  used on input line 98.
 \openout2 = `sections/Aufbau.aux'.
 
  (./sections/Aufbau.tex
-<./graphics/aufbau.png, id=251, 888.31876pt x 343.78438pt>
+<./graphics/aufbau.png, id=253, 888.31876pt x 343.78438pt>
 File: ./graphics/aufbau.png Graphic file (type png)
 <use ./graphics/aufbau.png>
 Package pdftex.def Info: ./graphics/aufbau.png  used on input line 7.
-(pdftex.def)             Requested size: 409.71689pt x 158.56238pt.
+(pdftex.def)             Requested size: 455.24408pt x 176.18275pt.
 
 Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
@@ -2335,25 +2333,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
 
  <./graphics/aufbau.PNG>]
-<./graphics/oben_dipol.png, id=259, 681.29532pt x 418.56375pt>
+<./graphics/oben_dipol.png, id=269, 681.29532pt x 418.56375pt>
 File: ./graphics/oben_dipol.png Graphic file (type png)
 <use ./graphics/oben_dipol.png>
-Package pdftex.def Info: ./graphics/oben_dipol.png  used on input line 41.
+Package pdftex.def Info: ./graphics/oben_dipol.png  used on input line 42.
 (pdftex.def)             Requested size: 182.09485pt x 111.87048pt.
-<./graphics/oben_direktor.png, id=260, 579.66562pt x 325.215pt>
+<./graphics/oben_direktor.png, id=270, 579.66562pt x 325.215pt>
 File: ./graphics/oben_direktor.png Graphic file (type png)
 <use ./graphics/oben_direktor.png>
-Package pdftex.def Info: ./graphics/oben_direktor.png  used on input line 42.
+Package pdftex.def Info: ./graphics/oben_direktor.png  used on input line 43.
 (pdftex.def)             Requested size: 182.09485pt x 102.1604pt.
-<./graphics/unten.png, id=261, 534.49687pt x 347.04657pt>
+<./graphics/unten.png, id=271, 534.49687pt x 347.04657pt>
 File: ./graphics/unten.png Graphic file (type png)
 <use ./graphics/unten.png>
-Package pdftex.def Info: ./graphics/unten.png  used on input line 43.
+Package pdftex.def Info: ./graphics/unten.png  used on input line 44.
 (pdftex.def)             Requested size: 136.5746pt x 88.67839pt.
-<./graphics/dipol.jpg, id=262, 2910.875pt x 2634.84375pt>
+<./graphics/dipol.jpg, id=273, 2910.875pt x 2634.84375pt>
 File: ./graphics/dipol.jpg Graphic file (type jpg)
 <use ./graphics/dipol.jpg>
-Package pdftex.def Info: ./graphics/dipol.jpg  used on input line 52.
+Package pdftex.def Info: ./graphics/dipol.jpg  used on input line 53.
 (pdftex.def)             Requested size: 204.85844pt x 185.4228pt.
 ) [13 <./graphics/oben_dipol.png> <./graphics/oben_direktor.png> <./graphics/un
 ten.png> <./graphics/Dipol.jpg>]
@@ -2361,26 +2359,16 @@ ten.png> <./graphics/Dipol.jpg>]
 
 
 (./sections/Messung.tex
-
-LaTeX Warning: Reference `sec:Simulation' on page 14 undefined on input line 3.
-
-
-
-LaTeX Warning: Citation 'range' on page 14 undefined on input line 8.
-
-
-LaTeX Warning: Citation 'frauenhofer' on page 14 undefined on input line 8.
-
-<./graphics/Labor2.jpg, id=278, 4138.46124pt x 2551.5325pt>
+<./graphics/Labor2.jpg, id=290, 4138.46124pt x 2551.5325pt>
 File: ./graphics/Labor2.jpg Graphic file (type jpg)
 <use ./graphics/Labor2.jpg>
 Package pdftex.def Info: ./graphics/Labor2.jpg  used on input line 16.
 (pdftex.def)             Requested size: 379.37004pt x 233.87173pt.
-[14
+ [14
 
 
  <./graphics/Labor2.jpg>]
-<./graphics/Abschluss.jpg, id=289, 2251.41125pt x 1980.39874pt>
+<./graphics/Abschluss.jpg, id=303, 2251.41125pt x 1980.39874pt>
 File: ./graphics/Abschluss.jpg Graphic file (type jpg)
 <use ./graphics/Abschluss.jpg>
 Package pdftex.def Info: ./graphics/Abschluss.jpg  used on input line 37.
@@ -2388,11 +2376,6 @@ Package pdftex.def Info: ./graphics/Abschluss.jpg  used on input line 37.
  [15 <./graphics/Abschluss.jpg>]
 PGFPlots: reading {csv/S11.csv}
 Missing character: There is no , in font nullfont!
-
-
-LaTeX Warning: Reference `sec:Simulation' on page 16 undefined on input line 73
-.
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 73--74
 
@@ -2404,27 +2387,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 73--74
  (./sections/Fazit.tex) [17
 
 
-] [18
+]
+Underfull \hbox (badness 10000) in paragraph at lines 70--70
+[]\T1/lmr/m/it/10.95 Antenna Theo-ry, An-ten-na Mea-su-re-ments\T1/lmr/m/n/10.9
+5 , http://www.antenna-
+ []
+
+[18
 
 ]
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 86.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 86.
- (./Report.aux (./sections/abstract.aux) (./sections/Einleitung.aux) (./section
-s/Theorie.aux)
-(./sections/Berechnung.aux) (./sections/Simulation.aux) (./sections/Aufbau.aux)
-(./sections/Messung.aux) (./sections/Fazit.aux))
+ (./Report.aux (./sections/abstract.aux) (./sections/Einleitung.aux)
+(./sections/Theorie.aux) (./sections/Berechnung.aux) (./sections/Simulation.aux
+) (./sections/Aufbau.aux) (./sections/Messung.aux) (./sections/Fazit.aux))
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 86.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 86.
 Package rerunfilecheck Info: File `Report.out' has not changed.
-(rerunfilecheck)             Checksum: 665B6BBC2C85509C5222EFD34DC5C29C;1124.
+(rerunfilecheck)             Checksum: 8000D58368A5AC03122771C3EEB72B2E;948.
 
 
-LaTeX Warning: There were undefined references.
-
-
-Package biblatex Warning: Please (re)run Biber on the file:
-(biblatex)                Report
-(biblatex)                and rerun LaTeX afterwards.
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
 
 Package logreq Info: Writing requests to 'Report.run.xml'.
 \openout1 = `Report.run.xml'.
@@ -2432,11 +2415,11 @@ Package logreq Info: Writing requests to 'Report.run.xml'.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 86.
  ) 
 Here is how much of TeX's memory you used:
- 60748 strings out of 492648
- 1414469 string characters out of 6133338
- 2077044 words of memory out of 5000000
- 63560 multiletter control sequences out of 15000+600000
- 623773 words of font info for 82 fonts, out of 8000000 for 9000
+ 60776 strings out of 492648
+ 1414939 string characters out of 6133338
+ 2077356 words of memory out of 5000000
+ 63584 multiletter control sequences out of 15000+600000
+ 637869 words of font info for 96 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  66i,19n,104p,10509b,2279s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2018/texmf-dist/fonts/enc/dvips/lm/lm-rm.enc}{c:/texlive/2018/tex
@@ -2449,17 +2432,17 @@ pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/lm/lmmi8.pfb><c:/texlive/201
 8/texmf-dist/fonts/type1/public/lm/lmr10.pfb><c:/texlive/2018/texmf-dist/fonts/
 type1/public/lm/lmr12.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr
 17.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr6.pfb><c:/texlive/2
-018/texmf-dist/fonts/type1/public/lm/lmr8.pfb><c:/texlive/2018/texmf-dist/fonts
-/type1/public/lm/lmr9.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr
-i10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/lm/lmro10.pfb><c:/texliv
-e/2018/texmf-dist/fonts/type1/public/lm/lmssbx10.pfb><c:/texlive/2018/texmf-dis
-t/fonts/type1/public/lm/lmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/publ
-ic/lm/lmtt10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/symbol
-s/msam10.pfb>
-Output written on Report.pdf (20 pages, 6192411 bytes).
+018/texmf-dist/fonts/type1/public/lm/lmr7.pfb><c:/texlive/2018/texmf-dist/fonts
+/type1/public/lm/lmr8.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/lm/lmr
+9.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/lm/lmri10.pfb><c:/texlive/
+2018/texmf-dist/fonts/type1/public/lm/lmro10.pfb><c:/texlive/2018/texmf-dist/fo
+nts/type1/public/lm/lmssbx10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public
+/lm/lmsy10.pfb><c:/texlive/2018/texmf-dist/fonts/type1/public/lm/lmtt10.pfb><c:
+/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/symbols/msam10.pfb>
+Output written on Report.pdf (20 pages, 6213274 bytes).
 PDF statistics:
- 387 PDF objects out of 1000 (max. 8388607)
- 296 compressed objects within 3 object streams
- 72 named destinations out of 1000 (max. 500000)
- 267 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 407 PDF objects out of 1000 (max. 8388607)
+ 311 compressed objects within 4 object streams
+ 73 named destinations out of 1000 (max. 500000)
+ 251 words of extra memory for PDF output out of 10000 (max. 10000000)
 

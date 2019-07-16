@@ -1,15 +1,15 @@
 \section{Simulation}\label{sec:Simulationsresultate}
 
-Für das Testen des theoretischen Aufbaus der Yagi-Antenne wurde eine Simulation mit \textit{CST Studio} durchgeführt. Somit kann vor dem Zusammenbau der Antenne dessen Funktion verifiziert werden und falsche Berechnungen überprüft werden. Dieser Abschnitt erläutert die Vorgehensweise bei der Simulation und dessen Resultate.
+Für das Testen des theoretischen Aufbaus der Yagi-Antenne wurde eine Simulation mit \textit{CST Studio Suite} durchgeführt. Somit kann vor dem Zusammenbau der Antenne dessen Funktion verifiziert werden und falsche Berechnungen überprüft werden. Dieser Abschnitt erläutert die Vorgehensweise bei der Simulation und dessen Resultate.
 
 \subsection{Aufbau der Antenne}
 
-Um die Antenne so realitätsnahe wie möglich simulieren zu können wurde Aluminium ($\sigma = $ \SI{3.56e+7}{S/m}) und Holz aus der Materialsbibliothek geladen. Anschliessend wurde die Antenne anhand den Parametern aus Kapitel \ref{sec:Berechnung} konstruiert. Die fertig konstruierte Antenne ist in Abbildung \ref{fig:Simulation_Yagi} zu sehen.
+Um die Antenne so realitätsnahe wie möglich simulieren zu können wurde Aluminium ($\sigma = $ \SI{3.56e+7}{S/m}) und Holz aus der Materialbibliothek geladen. Anschliessend wurde die Antenne anhand den Parametern aus Kapitel \ref{sec:Berechnung} konstruiert. Die fertig konstruierte Antenne ist in Abbildung \ref{fig:Simulation_Yagi} zu sehen.
 
 \begin{figure}[h!]
 	\centering
 	\includegraphics[width=\textwidth]{Yagi.png}
-	\caption{Aufbau der Yagi-Antenne in \textit{CST Studio}.}
+	\caption{Aufbau der Yagi-Antenne in \textit{CST Studio Suite}.}
 	\label{fig:Simulation_Yagi}
 \end{figure}
 
@@ -37,7 +37,7 @@ Als Vergleich wurden eine Messung mit nur zwei Direktoren durchgeführt. Die ide
 
 \newpage
 
-Während die 3D-Diagramme gut sind für das Verständnis der Abstrahlung der Antenne, für den Bericht sind die Messungen bezüglich der S1,1 Parameter aussagekräftiger (und vor allem auch einfacher messbar). Diese Parameter werden anschliessend in Kapitel \ref{sec:Messung} im Labor gemessen und können als Verifikation verwendet werden. Somit wurde die Antenne mit dem \textit{Frequency Domain Solver} ausgemessen.
+Während sich die 3D-Diagramme gut für das Verständnis der Abstrahlung der Antenne eignen, sind für den Bericht  die Messungen bezüglich der S1,1 Parameter aussagekräftiger (und vor allem auch einfacher messbar). Diese Parameter werden anschliessend in Kapitel \ref{sec:Messung} im Labor gemessen und können als Verifikation verwendet werden. Somit wurde die Antenne mit dem \textit{Frequency Domain Solver} ausgemessen.
 
 \begin{figure}[h!]
 	\centering
@@ -46,12 +46,12 @@ Während die 3D-Diagramme gut sind für das Verständnis der Abstrahlung der Ant
 	\label{fig:Simulation_result}
 \end{figure}
 
-Abbildung \ref{fig:Simulation_result} zeigt die S1,1 Parameter der konstruierten Yagi-Antenne. Wie bereits erwähnt wurde diese für \SI{144.125}{MHz} berechnet, wobei bei der Simulation eine Grenzfrequenz von \SI{133.0}{MHz} gemessen wird. Die dabei abweichende Grenzfrequenz kann vor allem durch das Anpassen der Länge des Dipols verbessert werden. Für das bessere Verständnis der Antenne werden die für die Simulation berechneten Parameter um $\pm$ \SI{5}{cm} angepasst, womit dessen Auswirkungen auf die S1,1 Parameter dargestellt werden können.
+Abbildung \ref{fig:Simulation_result} zeigt die S1,1 Parameter der konstruierten Yagi-Antenne. Wie bereits erwähnt wurde diese für \SI{144.125}{MHz} berechnet, wobei bei der Simulation eine Grenzfrequenz von exakt \SI{133.0}{MHz} gemessen wird. Die dabei abweichende Grenzfrequenz kann vor allem durch das Anpassen der Länge des Dipols verbessert werden. Für das bessere Verständnis der Antenne werden die für die Simulation berechneten Parameter um $\pm$ \SI{5}{cm} angepasst, womit dessen Auswirkungen auf die S1,1 Parameter dargestellt werden können.
 
 \begin{figure}[h!]
 	\centering
 	\includegraphics[width=\textwidth]{dDn.png}
-	\caption{Resultat der S1,1 Parameter durch Abändern von \textit{dDn}.}
+	\caption{Resultat der S1,1 Parameter durch Abändern von $d_\mathrm{Dn}$.}
 	\label{fig:Simulation_dDn}
 \end{figure}
 
@@ -64,7 +64,7 @@ In Abbildung \ref{fig:Simulation_dDn} wird das Resultat durch verändern des Abs
 	\label{fig:Simulation_dR}
 \end{figure}
 
-Auch ein Abändern des Abstandes des Reflektors zum Dipol hat nur einen minimen Einfluss auf die Grenzfrequenz. Dies ist der Abbildung \ref{fig:Simulation_dR} zu entnehmen. Dabei haben die kleinen Veränderungen nahezu das selbe Ausmass wie bei den Direktorenabständen in Abbildung \ref{fig:Simulation_dDn}. Das Verhalten der S1,1 Parameter entfernt der Grenzfrequenz ist jedoch nahezu identisch.
+Auch ein Abändern des Abstandes des Reflektors zum Dipol hat nur einen minimalen Einfluss auf die Grenzfrequenz. Dies ist der Abbildung \ref{fig:Simulation_dR} zu entnehmen. Dabei haben die kleinen Veränderungen nahezu das selbe Ausmass wie bei den Direktorenabständen in Abbildung \ref{fig:Simulation_dDn}. Das Verhalten der S1,1 Parameter entfernt der Grenzfrequenz ist jedoch nahezu identisch.
 
 \begin{figure}[h!]
 	\centering
@@ -91,7 +91,7 @@ Der Einfluss der Direktorenlänge ist in Abbildung \ref{fig:Simulation_lDn} zu s
 	\label{fig:Simulation_lS}
 \end{figure}
 
-Abbildung \ref{fig:Simulation_lS} zeigt wie sich die Grenzfrequenz beim Abändern der Strahlerlänge verhält. Idealerweise beträgt diese Länge exakt eine halbe Wellenlänge, jedoch hat die Simulation gezeigt, dass die Grenzfrequenz der berechneten Antenne ungefähr \SI{10}{MHz} zu tief liegt. Diese Simulation zeigt jedoch, dass die Dimensionerung für die berechnete Antenne sich am Besten verhält im Gegensatz zu den anderen zwei Simulationen. Für kürzere oder längere Strahler kann die Grenzfrequenz im Gegensatz zu den vorherigen Messungen am effektivsten verschoben werden, jedoch leidet der Antennengewinn stark darunter.
+Abbildung \ref{fig:Simulation_lS} zeigt wie sich die Grenzfrequenz beim Abändern der Strahlerlänge verhält. Idealerweise beträgt diese Länge exakt eine halbe Wellenlänge, jedoch hat die Simulation gezeigt, dass die Grenzfrequenz der berechneten Antenne ungefähr \SI{10}{MHz} zu tief liegt. Diese Simulation zeigt jedoch, dass die Dimensionierung für die berechnete Antenne sich am Besten verhält im Gegensatz zu den anderen zwei Simulationen. Für kürzere oder längere Strahler kann die Grenzfrequenz im Gegensatz zu den vorherigen Messungen am effektivsten verschoben werden, jedoch leidet der Antennengewinn stark darunter.
 
 \begin{figure}[h!]
 	\centering
@@ -100,4 +100,4 @@ Abbildung \ref{fig:Simulation_lS} zeigt wie sich die Grenzfrequenz beim Abänder
 	\label{fig:Simulation_lS_dDn}
 \end{figure}
 
-Anhand der vorherigen Simulation kann angenommen werden, dass bloss ein Abändern der Strahlerlänge nicht ausreicht. Deshalb wurde als Beispiel eine weitere Grösse angepasst. In Abbildung \ref{fig:Simulation_lS_dDn} sind die S1,1 Parameter zu sehen bei Veränderng der Strahlerlänge und der Direktorenabstände. Dabei wird zum Beispiel aufgezeigt, dass bei einem kürzeren Strahler druch das Anpassen der Direktorenabstände der Antennengewinn stark verbessert werden kann. Somit wurde durch die Simulation ein Parameterset gefunden, für welches die Antenne bie \SI{140}{MHz} sehr gute Eigenschaften besitzt. Dieses Verfahren könnte weiter verwendet werden, um ein Optimum bei \SI{144}{MHz} zu erreichen, was bei 5 veränderbaren Grössen relativ kompliziert werden kann. Da jedoch ein Grossteil der Simulationen bereits optimale Eigenschaften bei \SI{133}{MHz} aufweisen, wurden für den Bau der Antenne die bereits berechneten Werte verwendet.
+Anhand der vorherigen Simulation kann angenommen werden, dass bloss ein Abändern der Strahlerlänge nicht ausreicht. Deshalb wurde als Beispiel eine weitere Grösse angepasst. In Abbildung \ref{fig:Simulation_lS_dDn} sind die S1,1 Parameter zu sehen bei Veränderung der Strahlerlänge und der Direktorenabstände. Dabei wird zum Beispiel aufgezeigt, dass bei einem kürzeren Strahler durch das Anpassen der Direktorenabstände der Antennengewinn stark verbessert werden kann. Somit wurde durch die Simulation ein Parameterset gefunden, für welches die Antenne bei \SI{140}{MHz} sehr gute Eigenschaften besitzt. Dieses Verfahren könnte weiter verwendet werden, um ein Optimum bei \SI{144}{MHz} zu erreichen, was bei 5 veränderbaren Grössen relativ kompliziert werden kann. Da jedoch ein Grossteil der Simulationen bereits optimale Eigenschaften bei \SI{133}{MHz} aufweisen, wurden für den Bau der Antenne die bereits berechneten Werte verwendet.
